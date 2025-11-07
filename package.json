@@ -1,0 +1,141 @@
+{
+  "id": "33374434395757368598",
+  "name": "@indra.ai/deva.philosophy",
+  "version": "0.0.0",
+  "license": "VLA:33374434395757368598 LICENSE.md",
+  "VLA": {
+    "uid": "33374434395757368598",
+    "time": 1762547424124,
+    "date": "Friday, November 7, 2025 - 12:30:24 PM",
+    "fingerpring": "s8Zw2RbFnsKi7U57Re+fw6YNq0ZzYqTsCGf87xS1iUo=",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "cqbhWA/5sJZxpDOG1E4W2Q==",
+    "sha256": "a9eYOSV6wgVsHjnw292g3s6iJAmJrAFATT0NVO893Pc=",
+    "sha512": "02gprLR6QSrnt6a87HLzDJtEmoflPWf1/UWlOp7JPEY8mhNAv1j4aDwvmSCwyf8XBgKl2k3rqIYuS69KjOEsEA=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "Philosophy Deva manages the Quinn A Michaels 5 element Air, Earth, Fire, Water, and Ether Deva Core Philosophy Framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.philosophy.git"
+  },
+  "keywords": [
+    "Philosophy",
+    "Deva",
+    "Philosophy Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment™",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.philosophy/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.20.4"
+  },
+  "data": {
+    "agent": {
+      "id": "48746710749057164011",
+      "key": "philosophy",
+      "prompt": {
+        "emoji": "🥽",
+        "text": "#philosophy",
+        "colors": {
+          "label": {
+            "R": 200,
+            "G": 172,
+            "B": 87
+          },
+          "text": {
+            "R": 230,
+            "G": 225,
+            "B": 195
+          }
+        }
+      },
+      "profile": {
+        "id": "71990248838556434774",
+        "name": "Philosophy Deva",
+        "hashtag": "#Philosophy",
+        "trigger": "@Philosophy",
+        "title": "The Philosophy Deva",
+        "subtitle": "Philosophy Deva Five Element Philosophy Framework",
+        "describe": "Philosophy Deva the Indra.ai Quantum Isotropic Kinetic Cymatic Five Elemental Philosophy Framework. Beyond Philosophy and Beyond Time the Philosophy Deva models reality with the five element paradigm.",
+        "tweet": "Philosophy Deva is the Indra.ai is the Quantum Isotropic Kinetic Cymatic Elemental Philosophy Expert.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,PhilosophyDeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "Philosophy Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.philosophy",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/devas/philosophy/emoji.png",
+        "avatar": "/devas/philosophy/avatar.png",
+        "image": "/devas/philosophy/image.png",
+        "background": "/devas/philosophy/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "warning": "⚠️ Any Work, any Action, any Thought that Produces an Effect is called a Karma. Thus the Law of Karma means the law of Causation, of Inevitable Cause and Sequence. Wheresoever there is a Cause, there an Effect must be Produced. This Necessity cannot be Resisted, and this Law of Karma, according to Veda Philosophy, is True throughout the whole Universe.",
+        "created": "Wednesday, November 5, 2025 - 3:16:39 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "✅ Philosophy Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "❌ ERROR!",
+        "invalid_license": "💣 Invalid License"
+      },
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      }
+    }
+  }
+}
