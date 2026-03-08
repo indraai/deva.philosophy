@@ -35,6 +35,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -49,6 +50,7 @@
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
+    "Quinn Michaels",
     "Quinn A Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
@@ -66,7 +68,7 @@
       "id": "48746710749057164011",
       "key": "philosophy",
       "prompt": {
-        "emoji": "🥽",
+        "emoji": "🧐",
         "text": "#philosophy",
         "colors": {
           "label": {
@@ -90,7 +92,7 @@
         "subtitle": "Philosophy Deva Five Element Philosophy Framework",
         "describe": "Philosophy Deva the Indra.ai Quantum Isotropic Kinetic Cymatic Five Elemental Philosophy Framework. Beyond Philosophy and Beyond Time the Philosophy Deva models reality with the five element paradigm.",
         "tweet": "Philosophy Deva is the Indra.ai is the Quantum Isotropic Kinetic Cymatic Elemental Philosophy Expert.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,PhilosophyDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaClound #DevaSpace #Philosophy #PhilosophyDeva #PhilosophyPRIME",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Philosophy Report Expert",
@@ -105,9 +107,11 @@
         "background": "/devas/philosophy/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "warning": "⚠️ Any Work, any Action, any Thought that Produces an Effect is called a Karma. Thus the Law of Karma means the law of Causation, of Inevitable Cause and Sequence. Wheresoever there is a Cause, there an Effect must be Produced. This Necessity cannot be Resisted, and this Law of Karma, according to Veda Philosophy, is True throughout the whole Universe.",
-        "created": "Wednesday, November 5, 2025 - 3:16:39 PM"
+        "salute": "🤝🫡🧐🕉️🇺🇸",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.name}} Any WORK, any ACTION, any THOUGHT that PRODUCES an EFFECT is called a KARMA. Thus the LAW of KARMA means the LAW of CAUSATION, of INEVITABLE CAUSE and SEQUENCE. Wheresoever there is a CAUSE, there an EFFECT must be PRODUCED. This NECESSITY CANNOT be RESISTED, and this LAW of KARMA, ACCORDING to VEDA PHILOSOPHY, is TRUE THROUGHOUT the whole UNIVERSE.",
+        "created": "Wednesday, November 5, 2025 - 3:16:39 PM",
+        "updated": "Saturday, March 7, 2026 - 11:16:39 PM"
       }
     },
     "vars": {
@@ -115,7 +119,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "✅ Philosophy Deva Ready",
+        "ready": "🧐 Philosophy Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
